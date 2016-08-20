@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1462248173 source:e:\codeblocks projects\lab_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+
+1462248173 
+
+1462247787 source:/media/never_give_up/New Volume/codeblocks projects/lab_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+

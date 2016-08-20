@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1461449364 source:e:\codeblocks projects\online_shopping\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<map>
+

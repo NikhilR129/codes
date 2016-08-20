@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462301332 source:e:\codeblocks projects\union_find\main.c
+	<stdio.h>
+	<stdlib.h>
+

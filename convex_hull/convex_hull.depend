@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1462290501 source:e:\codeblocks projects\convex_hull\main.c
+	<stdio.h>
+	<stdlib.h>
+

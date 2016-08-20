@@ -1,0 +1,6 @@
+bread 20.50
+butter 10.25
+jam 20.00
+cornflakes 100.80
+pasta 45.50
+dosa 80.00
